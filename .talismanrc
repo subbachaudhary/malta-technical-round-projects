@@ -1,6 +1,4 @@
 fileignoreconfig:
-- filename: .intalismanrc
-  checksum: b73c811d7194c81421e14cae13e00cad26618476c342a10ebed86685a13b1b59
-- filename: Challenge#3/objects-key-value-op/key-value.js
-  checksum: ac0adeec23ee8b84d1dde79f6aba684b47321bf7caf5ad0614537c47db1c1bd9
+- filename: Challenge#1/common-infra-tool/modules/gcp-cloud-sql/main.tf
+  checksum: 5baf4b28533ad04aa228c344079385d99f1aa39c3146063a49c80736555a62b2
 version: ""
