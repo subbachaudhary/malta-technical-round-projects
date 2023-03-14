@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: .intalismanrc
+  checksum: b73c811d7194c81421e14cae13e00cad26618476c342a10ebed86685a13b1b59
+- filename: Challenge#3/objects-key-value-op/key-value.js
+  checksum: ac0adeec23ee8b84d1dde79f6aba684b47321bf7caf5ad0614537c47db1c1bd9
+version: ""
