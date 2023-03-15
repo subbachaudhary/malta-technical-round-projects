@@ -1,6 +1,6 @@
 # malta-technical-round-projects
 1. Challenge1
-- For the first question i used create challenge1 and used terraform to create infrastructure in different environment.
+- For the first question i used to create challenge1 and used terraform to create infrastructure in different environment.
 - we can use in dev, stage and prod. 
 -  we can also use workspace of terraform to create in different environment.
 - to run terraform code please install terraform in local and connect with AWS by 
